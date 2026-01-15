@@ -1,5 +1,5 @@
 
-<img width="1536" height="1024" alt="ProfileGitHub" src="https://github.com/user-attachments/assets/b2493f2b-749c-4001-9471-aece4096806b" />
+<img width="900" height="200" alt="ProfileGitHub" src="https://github.com/user-attachments/assets/b2493f2b-749c-4001-9471-aece4096806b" />
 
 <!--
 **doankhanh212/doankhanh212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
